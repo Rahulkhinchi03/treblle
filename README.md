@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://treblle-github.s3.us-east-1.amazonaws.com/github-header.jpg"/>
+  <img src="https://github.com/user-attachments/assets/b268ae9e-7c8a-4ade-95da-b4ac6fce6eea"/>
 </div>
 <div align="center">
 
-# Treblle CLI
+# Treblle
 
 <a href="https://docs.treblle.com/en/integrations" target="_blank">Integrations</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
@@ -19,6 +19,30 @@
 <br />
 
   <hr />
+</div>
+
+API Intelligence Platform. 🚀
+
+Treblle is a lightweight SDK that helps Engineering and Product teams build, ship & maintain REST-based APIs faster.
+
+## Features
+
+<div align="center">
+  <br />
+  <img src="https://github.com/user-attachments/assets/02afd9f5-ab47-48ff-929a-0f3fcddcca34"/>
+  <br />
+  <br />
+</div>
+
+- [API Monitoring & Observability](https://www.treblle.com/features/api-monitoring-observability)
+- [Auto-generated API Docs](https://www.treblle.com/features/auto-generated-api-docs)
+- [API analytics](https://www.treblle.com/features/api-analytics)
+- [Treblle API Score](https://www.treblle.com/features/api-quality-score)
+- [API Lifecycle Collaboration](https://www.treblle.com/features/api-lifecycle)
+- [Native Treblle Apps](https://www.treblle.com/features/native-apps)
+
+## Treblle CLI
+
 </div>
 
 A framework for building CLI applications fluently in Go.
